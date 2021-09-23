@@ -1,0 +1,34 @@
+Vamos a explicar que son:
+
+-Las Variables
+Haz de cuenta que una variable es como una cartuchera, donde puedes guardar varios 
+tipos de datos (lapiz, borrador, sacapuntas) y que puedes acceder a ellos despues
+cuando los necesites llamandolos por su nombre.
+
+-Strings
+Este es un tipo de dato que solo son palabras y textos, los cuales van dentro de 
+las comillas dobles (" ") o sencillas (' ').
+
+-Funciones (argumentos, return)
+Las funciones son los objetos que nos permitiran realizar dentro de ellas
+opercaiones matematicas complejas de todo tipo, ademas de comprobar arreglos.
+
+Los argumentos seran los datos que podemos introducir a la funcion ya sea para
+invocarla, llamarla o describirla
+
+Con return estamos llamando el resultado de la operación o proceso que hemos
+realizado dentro de la funcion.
+
+-Declaraciones if
+El operador de comparación es una herramienta muy util para verificar similitudes,
+igualdades, rangos, entre otros datos, funciona muy sencillo, tenemos dos datos
+o valores y con ellos podemos saber cual es el mayo o menor, si son iguales o 
+exactamente iguales, si tienen diferncia en algo o si es true o false y con este
+resultado podremos realizar otras funciones o procesos.
+
+
+
+-Valores booleanos(true, false)
+Los valores booleanos son los resultados de cuando tu haces una pregunta, consulta
+u operación matematica donde la unica respuesta es true(verdad) o false(falso) y 
+que son lo mismo que decir 1 o 0.
