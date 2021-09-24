@@ -1,0 +1,7 @@
+Vamos a explicar que son:
+-Array´s
+Los array son contenedores de datos, imaginate un bolso donde puedes guardar tu
+DNI, un cargador, una cartuchera que contenga otros objetos, y asi, ya que estos
+aceptan todo los tipos de datos que manejamos, desde palabras, numeros, funciones
+hasta otros array, los cuales asumen una posicion iniciando desde 0 hasta n numero
+de acuerdo a la cantidad de datos que quieras guardar o almacenar en un array.

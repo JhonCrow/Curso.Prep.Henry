@@ -1,0 +1,23 @@
+Vamos a explicar que son:
+-For
+Es el principal bucle de JavaScript, es el que se encarga de evaluar, volver a
+evaluar y volver a evaluar una expresion que tu le ingreses y cuando esta cambie
+o se cumpla, por alguna condición que nosotros hemos declarado, parara y nos
+arrojara el resultado, ya sea un true o false de acuerdo a la condición que se 
+cumplio.
+
+-&&/AND/Y
+Es un operador logico y funciona un poco como una comparación, ya que revisa si un
+una expresion y otra expresion son verdaderas y nos arrojara el resultado true,
+en cambio si una de ellas es falsa o ambas lo son, nos arrojara como resultado false.
+
+-||/OR/Ó
+Es otro operador logico y este es el que revisa que una de las dos expresiones sea 
+true o ambas lo sean y nos arroje e resutlado true, en cambio si y solo si ambas
+expresiones son falsas, nos arrojara false.
+
+-!/NOT/NO
+Este operador logico es el que nos invierte o nos arroja lo opuesto a los false 
+y true, osea si una expresion es falsa, nos arrojara true y si una expresion es
+verdadera nos arrojara false y por consgiguiente hara o no hara la operación
+que estemos declarando en la expresión.

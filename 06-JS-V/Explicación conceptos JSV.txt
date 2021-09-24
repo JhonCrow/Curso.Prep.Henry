@@ -1,0 +1,11 @@
+Vamos a explicar que son:
+-Prototype
+Los prototype o prototipos, en español, son los objetos de los cuales se dereivan
+las propiedades del objeto mismo, es decir es como el papa de los objetos que 
+usamos en el codigo, ademas funcionan como una fuente opcional de propiedades, que
+cuando no estan definidas el prototype nos las invoca.
+
+-Constructores(de Clases)
+Las clases funcionan como plantillas cuando vamos a crear objetos y estos objetos
+comparten varias propiedades, ayudando a evitar repetir codigo cuando lo escribimos
+haciendo mas facil el procesamiento del codigo.

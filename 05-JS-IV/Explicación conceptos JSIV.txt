@@ -1,0 +1,29 @@
+Vamos a explicar que son:
+-Objetos
+Son los elementos con la capacidad de contener mucha información sobre algo y lo 
+hace en forma de elementos pares, osea, tienes una clave y esta a su vez tiene
+un valor, estos elementos pueden ser palabras o strings, numeros, arrays, funciones,
+un true o false y hasta otro objeto.
+
+-Propiedades
+Las propiedades son el conjunto de clave y valor que se encuentran dentro de los 
+objetos y son las que hacen de cada objeto unico.
+
+-Metodos
+Es el nombre que reciben las funciones cuando estan dentro de los objetos y funcionan
+igual, dentro de ellas podremos realizar varios procesos, llamarlos e invocarlos.
+
+
+-Bucles for...in
+Es la version del for pero para los objetos y es la manera en la que podemos verificar
+todos los elementos que hay dentro de un objeto hasta que se cumpla o encontremos
+el elemento que necesitemos o el resultado esperado.
+
+
+-Notación de puntos vs notación de corchetes
+Son dos formas en las que se pueden llamar o invocar los elementos que estan dentro
+de los objetos, cada una tiene su manera de funcionar pero llegan al mismo resultado
+la diferencia esta en la escritura del codigo, donde con la notación de puntos se 
+escribe el nombre del objeto, un punto y la clave, mienstras que con la notación de
+corchetes debes escribir el objeto, los corchetes y las comillas, que dentro estara
+el elemento que llamamos del objeto
